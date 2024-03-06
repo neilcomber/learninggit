@@ -4,11 +4,11 @@ body, html {
     /* flex-direction: row; */
     justify-content: center;
     align-items: center;
-    background-color: rgba(167, 113, 126, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 
 h1 {
     /* background-color: rgba(167, 113, 126, 0.8); */
-    color: rgba(255,255,255,0.5);
+    color: rgba(134, 26, 26, 0.9);
 }
